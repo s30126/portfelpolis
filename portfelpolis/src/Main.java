@@ -22,8 +22,8 @@ public class Main {
         System.out.println(p1.equals(new Polisa("CAR-101", "Inny klient", 700.0, 1, 30000.0, false, false)));
         System.out.println(p2);
 
-        Polisa znaleziona = biuro.znajdzPoNumerze("CAR-102");
-        System.out.println("Znaleziono: " + znaleziona);
+        // Polisa znaleziona = biuro.znajdzPoNumerze("CAR-102");
+        // System.out.println("Znaleziono: " + znaleziona);
 
     }
 }
