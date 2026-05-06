@@ -25,6 +25,10 @@ public class Polisa {
 
     }
 
+    public String getNumerPolisy() {
+        return numerPolisy;
+    }
+
     public double getSkladkaBazowa() {
         return skladkaBazowa;
     }
